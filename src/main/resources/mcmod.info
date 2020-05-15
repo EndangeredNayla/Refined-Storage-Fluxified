@@ -1,0 +1,19 @@
+[
+  {
+    "modid": "refstoragefluxified",
+    "name": "Refined Storage Fluxified",
+    "description": "Adds Visual RF to Refined Storage",
+    "version": "1.0.0",
+    "credits": "Refined Developers for an Amazing Mod that uses RF i mean FE.",
+    "logoFile": "",
+    "mcversion": "1.12.2",
+    "updateUrl": "",
+    "authorList": [
+      "CrankySupertoon"
+    ],
+    "dependencies": [],
+    "dependants": [],
+    "requiredMods": [],
+    "useDependencyInformation": "true"
+  }
+]
