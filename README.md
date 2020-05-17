@@ -1,7 +1,7 @@
 # Refined Storage Fluxified [![Discord][discordImg]][discordLink] [![Curseforge][curseImg]][curseLink]
 
 
-**Refined Storage Fluxified** adds cakes for the Caverse Modpack
+**Refined Storage Fluxified** adds fluxified textures for Refined Storage
 
 
 ## 🚀 Getting Started
