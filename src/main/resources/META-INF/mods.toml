@@ -13,18 +13,13 @@ authors="UnicorNora"
 [[dependencies.refstoragefluxified]]
     modId="minecraft"
     mandatory=true
-    versionRange="[1.16.5]"
+    versionRange="[1.16.2,]"
     ordering="NONE"
     side="BOTH"
     
 [[dependencies.refstoragefluxified]]
     modId="refinedstorage"
     mandatory=true
-    versionRange="[1.16.5]"
+    versionRange="[1.9.11,]"
     ordering="NONE"
     side="BOTH"
-
-
-
-
-

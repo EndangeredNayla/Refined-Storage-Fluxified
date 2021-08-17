@@ -23,7 +23,7 @@ jobs:
     - name: Grant execute permission for gradlew
       run: chmod +x gradlew
     - name: Setup Gradle Wrapper for Forge MDK
-      run: ./gradlew SetupCIWorkspace
+      run: ./gradlew genVSCodeRuns
     - name: Build with Gradle
       run: ./gradlew build
     - name: Upload a Build Artifact

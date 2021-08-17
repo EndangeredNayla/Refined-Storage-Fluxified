@@ -10,9 +10,9 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle'
 apply plugin: 'eclipse'
 
-version = '1.0.0'
+version = '1.0.1'
 group = 'com.unicornora.refstoragefluxified'
-archivesBaseName = 'refstoragefluxified'
+archivesBaseName = 'refstoragefluxified-1.16.5'
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(8)
 
