@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="MIT License"
+
+[[mods]]
+modId="refstoragefluxified"
+version="1.0.0"
+displayName="Refined Storage Fluxified"
+credits="Refined Developers for an Amazing Mod that uses RF, I mean FE."
+displayURL="https://github.com/UnicorNora/Refined-Storage-Fluxified"
+authors="UnicorNora"
+
+[[dependencies.refstoragefluxified]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+    
+[[dependencies.refstoragefluxified]]
+    modId="refinedstorage"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
+
